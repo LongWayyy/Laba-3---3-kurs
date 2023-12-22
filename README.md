@@ -219,14 +219,14 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
 ```
 Создайте страницу, которая запрашивает x и n, а затем выводит результат `pow(x,n)`.
 
-23. 7 kyu https://www.codewars.com/kata/highest-and-lowest
-24. 7 kyu https://www.codewars.com/kata/disemvowel-trolls
-25. 7 kyu https://www.codewars.com/kata/isograms
-26. 7 kyu https://www.codewars.com/kata/digits-explosion
-27. 6 kyu https://www.codewars.com/kata/handshake-problem
-28. 6 kyu https://www.codewars.com/kata/duplicate-encoder
-29. 6 kyu https://www.codewars.com/kata/n-th-fibonacci
-30. 6 kyu https://www.codewars.com/kata/multiples-of-3-or-5
+23. https://www.codewars.com/kata/highest-and-lowest
+24. https://www.codewars.com/kata/disemvowel-trolls
+25. https://www.codewars.com/kata/isograms
+26.  https://www.codewars.com/kata/digits-explosion
+27.  https://www.codewars.com/kata/handshake-problem
+28.  https://www.codewars.com/kata/duplicate-encoder
+29.  https://www.codewars.com/kata/n-th-fibonacci
+30.  https://www.codewars.com/kata/multiples-of-3-or-5
 
 
 <h2 align="center">Решение задач</h2>
